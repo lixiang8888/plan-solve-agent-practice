@@ -1,0 +1,9 @@
+[project]
+name = "plan-solve-agent"
+version = "0.1.0"
+description = "Plan-and-Solve Agent 个人实践：先规划，再执行，随时重规划"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+]
